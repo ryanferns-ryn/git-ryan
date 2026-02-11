@@ -1,2 +1,2 @@
 # git-ryan
-my first project
+my first project is a project i did first
